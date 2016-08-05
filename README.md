@@ -1,4 +1,4 @@
-# CERN@school Coding Challenges (Beta)
+# The CERN@school Coding Challenges
 
 This repository contains a series of Jupyter Notebooks featuring challenges
 and code related to the analysis of CERN@school data.
@@ -61,6 +61,10 @@ notebooks containing the challenges. Simply click on the notebook
 you want to get working on to open it in a new browser tab.
 
 Good luck!
+
+## Getting help
+If you run into problems, please raise an issue on the repository's
+[issue page](./issues). We'll do our best to help if we can!
 
 ## Further information
 See the [CERN@school homepage](http://researchinschools.org/CERN) for more information
