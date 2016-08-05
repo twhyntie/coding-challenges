@@ -64,7 +64,7 @@ Good luck!
 
 ## Getting help
 If you run into problems, please raise an issue on the repository's
-[issue page](./issues). We'll do our best to help if we can!
+[issue page](https://github.com/twhyntie/coding-challenges/issues). We'll do our best to help if we can!
 
 ## Further information
 See the [CERN@school homepage](http://researchinschools.org/CERN) for more information
